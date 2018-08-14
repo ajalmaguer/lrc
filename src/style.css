@@ -38,3 +38,7 @@ audio {
   font-size: 100px;
   cursor: pointer;
 }
+
+button {
+  touch-action: manipulation;
+}
